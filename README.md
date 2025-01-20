@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logos/Heart.png" width="300"/>
-</p>
-
 # Visualizing Heart Development from 3D Volumetric images
 
 Goal: Create an online interactive visualization platform for time-lapse 3D heart development (Heart and adjacent progenitor field) where quantitative data of cell morphology, stress patterns, genetic lineages and RNA-seq experiments can be plotted on their time and spatial positions and stored.
