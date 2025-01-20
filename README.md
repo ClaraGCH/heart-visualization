@@ -31,7 +31,6 @@ The website would be itself a resource for cardiac  research in constant constru
 within 
 Both labs forming part of the interdisciplinary project of The Turing Centre for Living Systems [CENTURI](https://centuri-livingsystems.org/)
 
-
 ## Future users profiles
 
 - Research teams in developmental biology. You will be able to visualize and download the data, graphics and animations.
@@ -39,16 +38,6 @@ Both labs forming part of the interdisciplinary project of The Turing Centre for
 - Bioengineers wanting to create/print scaffolds and biomaterials with correct measurements of cardiac structures
 - Medical doctors that study congenital heart diseases.
 - 3D scientifc animators and illustrators. You will no longer have to sculpt the 3D objects from scratch based on drawings or pictures, the 3D meshes are made from microscopy data and available.
-
-
-## Inspiration
-
-- World Health Organisation Coronavirus (COVID-19) Dashboard [covid.WHO](https://covid19.who.int/) by the WHO
-- Morphology, Growth and Patterning of the Developing Heart methods and applications [atlas](https://www.sciencedirect.com/science/article/pii/S0012160612002473) by Bouke A. de Boer 
-- 3D modelling and animation programs such as [Blender](https://www.blender.org/), [c4d](https://www.maxon.net/fr/cinema-4d) or [Autocad](https://web.autocad.com/login)
-- Nature [videos](https://www.youtube.com/watch?v=_VhcZTGv0CU)
-- C.elegans [browsers](http://morphotranscriptomics.pythonanywhere.com/) by M.Senoussi
-- The Human Protein [Atlas](http://www.proteinatlas.org/)
 
 ## Data
 [Pseudodynamic analysis of heart tube formation in the mouse reveals strong regional variability and early left–right asymmetry](https://www.nature.com/articles/s44161-022-00065-1#code-availability) by Miguel Torre's lab (Esteban et al., 2022)
