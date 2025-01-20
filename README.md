@@ -1,6 +1,7 @@
 # Visualizing Heart Development from 3D Volumetric images - CENTURI Hackathon 2022 
 
-Goal: Create an online interactive visualization platform for time-lapse 3D heart development (Heart and adjacent progenitor field) where quantitative data of cell morphology, stress patterns, genetic lineages and RNA-seq experiments can be plotted on their time and spatial positions and stored.
+## Goal: 
+Create an online interactive visualization platform for time-lapse 3D heart development (Heart and adjacent progenitor field) where quantitative data of cell morphology, stress patterns, genetic lineages and RNA-seq experiments can be plotted on their time and spatial positions and stored.
 The website would be itself a resource for cardiac  research in constant construction as labs discover and add new data.
 
 ## Problems aimed to be solved 
