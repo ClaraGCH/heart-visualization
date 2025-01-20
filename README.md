@@ -52,9 +52,6 @@ Both labs forming part of the interdisciplinary project of The Turing Centre for
 ## Data
 [Pseudodynamic analysis of heart tube formation in the mouse reveals strong regional variability and early left–right asymmetry](https://www.nature.com/articles/s44161-022-00065-1#code-availability) by Miguel Torre's lab (Esteban et al., 2022)
 
-## Method
-3D Shape Correspondence for Biological Image Data: [μMatch](https://www.frontiersin.org/articles/10.3389/fcomp.2022.777615/full) by Virgine Uhlmann's lab (Klatzow et al., 2022)
-
 ## Acknowledgments & Contributions
 
 Big thank to the Paul Villoutreix Lab, Robert Kelly, CENTURI and the Centuri Hackathon team.
