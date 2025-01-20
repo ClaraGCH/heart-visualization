@@ -1,4 +1,4 @@
-# Visualizing Heart Development from 3D Volumetric images
+# Visualizing Heart Development from 3D Volumetric images - CENTURI Hackathon 2022 
 
 Goal: Create an online interactive visualization platform for time-lapse 3D heart development (Heart and adjacent progenitor field) where quantitative data of cell morphology, stress patterns, genetic lineages and RNA-seq experiments can be plotted on their time and spatial positions and stored.
 The website would be itself a resource for cardiac  research in constant construction as labs discover and add new data.
@@ -55,4 +55,6 @@ Both labs forming part of the interdisciplinary project of The Turing Centre for
 ## Acknowledgments & Contributions
 
 Big thank to the Paul Villoutreix Lab, Robert Kelly, CENTURI and the Centuri Hackathon team.
-As well as the people who registered and participate in the Hackathon and project: Almas Riaya, Gabrielle Roullet, Julia Majewska, Jun Huang, Nessim Louafi, Richmond Crisostomo, Shunyu Wu.
+As well as the people who participated in the  project: Almas Riaya, Gabrielle Roullet, Julia Majewska, Jun Huang, Nessim Louafi, Richmond Crisostomo, Shunyu Wu.
+CENTURI Hackathon 2022 --> https://github.com/CENTURI-Hackathon-2022
+
